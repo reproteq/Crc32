@@ -1,0 +1,15 @@
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\bin\Debug\Crc32WpfApplication.exe.config
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\bin\Debug\Crc32WpfApplication.exe
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\bin\Debug\Crc32WpfApplication.pdb
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\View\MainWindow.g.cs
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\App.g.cs
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication_MarkupCompile.cache
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication_MarkupCompile.lref
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\View\MainWindow.baml
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.g.resources
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.Properties.Resources.resources
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.csproj.GenerateResource.cache
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.exe
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.pdb
+C:\Users\w10\Desktop\Crc32WpfApplication-master\Crc32WpfApplication\obj\Debug\Crc32WpfApplication.csprojAssemblyReference.cache
